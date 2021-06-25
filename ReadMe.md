@@ -2,7 +2,7 @@
 
 **Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
@@ -27,9 +27,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/P0SYp39.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/ITq5vHQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://i.imgur.com/ITq5vHQ.gif
+https://i.imgur.com/ITq5vHQ.gif (for the second gif)
 
 GIF created with [Kap](https://getkap.co/).
 
